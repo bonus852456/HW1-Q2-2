@@ -103,7 +103,7 @@ int main(){
 * 直角座標系
 * 距離公式
 
-# Disparity result
+# Result
 操作介面:<br/>
 <img src="Image 1.png" ><br/>
 原圖:<br/>
